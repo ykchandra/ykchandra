@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an E-Commerce App.
 
-- 🌱 I’m currently learning **Kotlin, Flutter, Android Studio and Java programming language.**
+- 🌱 I’m currently learning **Kotlin, Android Studio and Java programming language.**
 
 - 👯 I’m looking to collaborate on **a Social Media App.**
 
