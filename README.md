@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ykchandra1234@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/drive/folders/1ADNCThvOpASPoQBL6KtiQsPN34OcHTlf?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ADNCThvOpASPoQBL6KtiQsPN34OcHTlf?usp=drive_link)
 
 - 📄 View my certifications [Here](https://drive.google.com/drive/folders/1oXv6oNn2BifPbKbYUtykt-AzQf1y2fmU?usp=sharing)
 
